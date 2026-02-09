@@ -3,7 +3,7 @@
 **Versión del manuscrito:** Blanca Hernández Pardo_Comunicación2 (febrero 2026) - Pendiente de publicar en editorial tras congreso CIEI 2026 (https://ciei.es/)
 **Autor/a:** Dr.ª Blanca Hernández Pardo
 **Contacto:** bhpardo@comillas.edu 
-**Repositorio:** [URL del repo cuando lo publiques]  
+**Repositorio:** https://github.com/blancahpardo/cl-nlp-enterprise-rsl  
 **Fecha de última actualización:** 2026-02-09
 
 ## 1. Descripción
@@ -45,7 +45,7 @@ Según el flujo PRISMA:
 
 ## 5. Cómo citar este repositorio
 
-> Hernández Pardo, B. (2026). *Repositorio de respaldo de la RSL “El lingüista computacional como perfil estratégico para el PLN empresarial”* (versión 1.0) [Conjunto de datos y materiales]. Repositorio. [URL]
+> Hernández Pardo, B. (2026). *Repositorio de respaldo de la RSL “El lingüista computacional como perfil estratégico para el PLN empresarial”* (versión 1.0) [Conjunto de datos y materiales]. Repositorio. https://github.com/blancahpardo/cl-nlp-enterprise-rsl
 
 ## 6. Licencia
 Ver `LICENSE`.
