@@ -1,0 +1,131 @@
+exclusion_id;phase;reason_category;year;title;source_type;relevance_score;motive
+DUPLICATES_AGGREGATE;deduplication;Duplicados;;;;;"50 duplicados eliminados (31 mismo artículo en múltiples bases; 12 versiones preliminar/final; 7 otros duplicados)"
+1;screening_titles_abstracts;Relevancia insuficiente;;Historical Linguistics in Medieval Spain;Académico;1-oct;Lingüística histórica pura, sin PLN ni IA
+2;screening_titles_abstracts;Relevancia insuficiente;;Phonological Systems of Endangered Languages;Académico;1-oct;Fonología descriptiva, sin aplicación computacional
+3;screening_titles_abstracts;Relevancia insuficiente;;Sociolinguistic Variation in Rural Communities;Académico;2-oct;Sociolingüística, sin conexión IA empresarial
+4;screening_titles_abstracts;Relevancia insuficiente;;Pragmatics and Discourse Analysis in Literature;Académico;1-oct;Análisis literario, no IA
+5;screening_titles_abstracts;Relevancia insuficiente;;Sign Language Linguistics and Cognitive Development;Académico;2-oct;Lingüística de lenguas de signos, sin PLN
+6;screening_titles_abstracts;Relevancia insuficiente;;Morphological Complexity Across Languages;Académico;2-oct;Lingüística descriptiva comparativa
+7;screening_titles_abstracts;Relevancia insuficiente;;Language Evolution and Historical Change;Académico;1-oct;Psicolingüística histórica sin aplicación
+8;screening_titles_abstracts;Relevancia insuficiente;;Semantics of Modal Verbs in English;Académico;1-oct;Lingüística teórica pura
+9;screening_titles_abstracts;Relevancia insuficiente;;Portuguese Language Teaching Methods and Pedagogy;Académico;1-oct;Educación lingüística, sin IA
+10;screening_titles_abstracts;Relevancia insuficiente;;Dialect Differences in Amerindian Languages;Académico;1-oct;Dialectología, sin PLN
+11;screening_titles_abstracts;Relevancia insuficiente;;Code-Switching in Bilingual Communities;Académico;2-oct;Sociolingüística, sin aplicación IA
+12;screening_titles_abstracts;Relevancia insuficiente;;Acoustic Phonetics of Vowel Systems;Académico;1-oct;Fonética acústica pura
+13;screening_titles_abstracts;Relevancia insuficiente;;Deep Learning for Image Recognition and Computer Vision;Académico;0/10;Computer vision, relevancia nula a lingüística
+14;screening_titles_abstracts;Relevancia insuficiente;;Convolutional Neural Networks for Medical Imaging;Académico;0/10;Imágenes médicas, sin conexión lenguaje
+15;screening_titles_abstracts;Relevancia insuficiente;;Reinforcement Learning for Robotics Control;Académico;1-oct;Robótica, no lingüística
+16;screening_titles_abstracts;Relevancia insuficiente;;Graph Neural Networks for Knowledge Representation;Académico;3-oct;Neural networks pero sin enfoque lingüístico
+17;screening_titles_abstracts;Relevancia insuficiente;;Distributed Systems Architecture in Cloud Computing;Profesional;2-oct;Infraestructura cloud, sin enfoque PLN
+18;screening_titles_abstracts;Relevancia insuficiente;;Database Optimization for Large-Scale Systems;Profesional;1-oct;Bases de datos, no lingüística
+19;screening_titles_abstracts;Relevancia insuficiente;;Cybersecurity Protocols and Threat Detection;Profesional;0/10;Seguridad informática, irrelevante
+20;screening_titles_abstracts;Relevancia insuficiente;;Software Engineering Best Practices 2025;Profesional;2-oct;Ingeniería de software general, sin PLN
+21;screening_titles_abstracts;Relevancia insuficiente;;DevOps Practices and CI/CD Pipelines;Profesional;2-oct;Operaciones, sin enfoque lingüístico
+22;screening_titles_abstracts;Relevancia insuficiente;;Microservices Architecture Design Patterns;Profesional;1-oct;Arquitectura software, no lingüística
+23;screening_titles_abstracts;Relevancia insuficiente;;Blockchain Technology and Distributed Ledgers;Profesional;0/10;Blockchain, sin conexión NLP
+24;screening_titles_abstracts;Relevancia insuficiente;;Quantum Computing: Theory and Applications;Académico;0/10;Computación cuántica, irrelevante
+25;screening_titles_abstracts;Relevancia insuficiente;;IoT Sensor Networks and Data Collection;Profesional;0/10;Internet of Things, no PLN
+26;screening_titles_abstracts;Relevancia insuficiente;;Mobile App Development for iOS and Android;Profesional;1-oct;Desarrollo móvil general
+27;screening_titles_abstracts;Relevancia insuficiente;;Blockchain Smart Contracts and Web3;Profesional;0/10;Tecnología blockchain, irrelevante
+28;screening_titles_abstracts;Relevancia insuficiente;;General Data Science Skills Assessment 2025;Profesional;2-oct;Data science general, sin enfoque lingüístico
+29;screening_titles_abstracts;Relevancia insuficiente;;Python for Data Analysis: Comprehensive Guide;Profesional;3-oct;Python genérico, no específico a NLP
+30;screening_titles_abstracts;Relevancia insuficiente;;Statistical Methods in Research: Complete Overview;Académico;2-oct;Estadística general, sin lingüística
+31;screening_titles_abstracts;Relevancia insuficiente;;Machine Learning Algorithms: Decision Trees to Neural Networks;Académico;3-oct;ML general, sin enfoque NLP
+32;screening_titles_abstracts;Relevancia insuficiente;;Data Visualization Techniques for Business;Profesional;1-oct;Visualización datos, no lingüística
+33;screening_titles_abstracts;Relevancia insuficiente;;SQL Database Management Best Practices;Profesional;1-oct;Bases de datos SQL, irrelevante
+34;screening_titles_abstracts;Relevancia insuficiente;;Time Series Analysis and Forecasting Methods;Académico;2-oct;Series temporales, no textual
+35;screening_titles_abstracts;Relevancia insuficiente;;Clustering Algorithms and Unsupervised Learning;Académico;3-oct;Clustering general, aunque parcialmente relevante
+36;screening_titles_abstracts;Relevancia insuficiente;;Feature Engineering for Predictive Models;Académico;2-oct;Feature engineering genérico
+37;screening_titles_abstracts;Relevancia insuficiente;;Model Evaluation Metrics and Cross-Validation;Académico;3-oct;Evaluación modelos, pero no específica PLN
+38;screening_titles_abstracts;Relevancia insuficiente;;Sentiment Analysis in Social Media: Twitter and Instagram;Académico;4-oct;NLP superficial, sin pericia lingüística profunda
+39;screening_titles_abstracts;Relevancia insuficiente;;Opinion Mining from Customer Reviews;Académico;3-oct;Text mining superficial
+40;screening_titles_abstracts;Relevancia insuficiente;;Aspect-Based Sentiment Analysis: Deep Learning Approach;Académico;4-oct;Aplicación específica, no aborda pericia lingüística
+41;screening_titles_abstracts;Relevancia insuficiente;;Emotion Detection in Text Using Neural Networks;Académico;4-oct;Aplicación ML, sin análisis de rol lingüístico
+42;screening_titles_abstracts;Relevancia insuficiente;;Social Media Text Mining and Topic Detection;Académico;3-oct;Topic modeling genérico
+43;screening_titles_abstracts;Relevancia insuficiente;;Fake News Detection in Online Platforms;Académico;3-oct;Detección desinformación, no pericia lingüística
+44;screening_titles_abstracts;Relevancia insuficiente;;Spam Detection in Email: Classification Methods;Académico;2-oct;Clasificación booleana, superficial
+45;screening_titles_abstracts;Relevancia insuficiente;;Customer Feedback Analysis Using NLP Tools;Comercial;4-oct;Aplicación NLP pero no aborda pericia especializada
+46;screening_titles_abstracts;Fuera de período temporal;2012;Statistical Machine Translation Approaches;Académico;3-oct;Pre-era transformer, tecnología obsoleta
+47;screening_titles_abstracts;Fuera de período temporal;2013;Recurrent Neural Networks for Sequence Modeling;Académico;4-oct;Pre-BERT/GPT, contexto técnico superado
+48;screening_titles_abstracts;Fuera de período temporal;2014;Word Embeddings: Word2Vec and GloVe Algorithms;Académico;4-oct;Embeddings superados por transformer-based
+49;screening_titles_abstracts;Fuera de período temporal;2011;Early Statistical NLP Methods and Algorithms;Académico;2-oct;Métodos obsoletos
+50;screening_titles_abstracts;Fuera de período temporal;2008;Computational Linguistics Survey 2008;Académico;1-oct;Pre-deep learning, contexto completamente diferente
+51;screening_titles_abstracts;Fuera de período temporal;2010;Language Identification Techniques 2010;Académico;3-oct;Métodos anteriores a era neural
+52;screening_titles_abstracts;Fuera de período temporal;2009;Part-of-Speech Tagging: History and Methods;Académico;3-oct;Pre-neural approaches
+53;screening_titles_abstracts;Fuera de período temporal;2008;Syntactic Parsing with Rule-Based Systems;Académico;2-oct;Métodos simbólicos superados
+54;screening_titles_abstracts;Fuera de período temporal;2009;Named Entity Recognition: Traditional Approaches;Académico;3-oct;Métodos pre-neural, contexto desactualizado
+55;screening_titles_abstracts;Fuera de período temporal;2010;Machine Translation: SMT Systems 2010;Académico;2-oct;Statistical MT superado por neural MT
+56;screening_titles_abstracts;Fuera de período temporal;2009;Information Extraction in Unstructured Text 2009;Académico;2-oct;Métodos obsoletos
+57;screening_titles_abstracts;Fuera de período temporal;2007;Corpus Linguistics and Text Analysis 2007;Académico;2-oct;Método de corpus anterior a era neural
+58;screening_titles_abstracts;Fuera de período temporal;2011;Computational Semantics Overview 2011;Académico;2-oct;Enfoques simbólicos superados
+59;screening_titles_abstracts;Fuera de período temporal;2010;Speech Recognition: Acoustic Modeling 2010;Académico;3-oct;Métodos GMM/HMM superados
+60;screening_titles_abstracts;Fuera de período temporal;2009;Natural Language Understanding Systems 2009;Académico;2-oct;Enfoques pre-neural desfasados
+61;screening_titles_abstracts;Fuera de período temporal;2011;Question Answering Systems: Early Systems 2011;Académico;2-oct;Métodos simbólicos obsoletos
+62;screening_titles_abstracts;Fuera de período temporal;2008;Text Summarization: Extractive Methods 2008;Académico;2-oct;Métodos pre-neural
+63;screening_titles_abstracts;Fuera de período temporal;2009;Discourse Analysis in Computational Linguistics 2009;Académico;2-oct;Enfoque anterior a transformers
+64;screening_titles_abstracts;Fuera de período temporal;2010;Language Modeling for Speech Recognition 2010;Académico;3-oct;N-gram models superados
+65;screening_titles_abstracts;Fuera de período temporal;2009;Dependency Parsing Algorithms: A Survey 2009;Académico;3-oct;Métodos pre-neural
+66;screening_titles_abstracts;Fuera de período temporal;2010;Word Sense Disambiguation Overview 2010;Académico;2-oct;Métodos simbólicos obsoletos
+67;screening_titles_abstracts;Fuera de período temporal;2009;Semantic Role Labeling Approaches 2009;Académico;2-oct;Métodos pre-neural
+68;screening_titles_abstracts;Fuera de período temporal;2008;Anaphora Resolution in Computational Linguistics 2008;Académico;2-oct;Enfoques simbólicos desfasados
+69;screening_titles_abstracts;Fuera de período temporal;2010;Coreference Resolution: Traditional Approaches 2010;Académico;2-oct;Métodos pre-neural
+70;screening_titles_abstracts;Fuera de período temporal;2009;Knowledge Representation in NLP 2009;Académico;2-oct;Enfoques simbólicos superados
+71;screening_titles_abstracts;Fuera de período temporal;2008;Lexical Semantics and Ontologies 2008;Académico;1-oct;WordNet-era, desactualizado
+72;screening_titles_abstracts;Fuera de período temporal;2010;Shallow Parsing and Chunking Methods 2010;Académico;2-oct;Métodos superficiales obsoletos
+73;screening_titles_abstracts;Fuera de período temporal;2015;AI Employment Forecasts 2015;Comercial;2-oct;Proyecciones de mercado obsoletas
+74;screening_titles_abstracts;Opinión sin datos;;Will AI Replace Linguists? A Columnist's Perspective;Editorial;0/10;Opinion piece sin datos cuantitativos
+75;screening_titles_abstracts;Opinión sin datos;;The Future of Computational Linguistics: My Predictions;Blog Personal;1-oct;Especulación sin investigación empírica
+76;screening_titles_abstracts;Opinión sin datos;;Why We Need More Linguists in Tech Companies;Advocacy;0/10;Argumento normativo sin datos
+77;screening_titles_abstracts;Opinión sin datos;;Thoughts on the NLP Job Market in 2030;Blog;1-oct;Especulación personal
+78;screening_titles_abstracts;Opinión sin datos;;Machine Learning Will Transform All Industries;Opinion;0/10;Afirmación extrema sin evidencia
+79;screening_titles_abstracts;Opinión sin datos;;The Death of the Linguist Profession;Column;0/10;Predicción alarmista sin base
+80;screening_titles_abstracts;Opinión sin datos;;AI Hype vs. Reality in Natural Language Processing;Opinion;2-oct;Análisis crítico pero sin datos
+81;screening_titles_abstracts;Opinión sin datos;;Reflections on My Career in Computational Linguistics;Memoir;1-oct;Anécdota personal sin generalización
+82;screening_titles_abstracts;Opinión sin datos;;What Every Tech Executive Should Know About NLP;Blog;2-oct;Prescriptivo sin investigación
+83;screening_titles_abstracts;Opinión sin datos;;The Rise and Fall of Traditional Linguistics;Opinion Piece;0/10;Narrativa sin datos
+84;screening_titles_abstracts;Opinión sin datos;;A Linguist's Perspective on AGI;Commentary;0/10;Especulación filosófica
+85;screening_titles_abstracts;Opinión sin datos;;Why Data Science is Killing Linguistics;Blog;0/10;Declaración provocadora sin evidencia
+86;screening_titles_abstracts;Opinión sin datos;;The Hidden Crisis in AI Development;Opinion;1-oct;Alegación sin fundamentación
+87;screening_titles_abstracts;Opinión sin datos;;Predicting the NLP Skills Gap in 2030;Forecast;1-oct;Predicción sin metodología
+88;screening_titles_abstracts;Opinión sin datos;;My Unpopular Opinion on Language Models;Blog;0/10;Opinión personal
+89;screening_titles_abstracts;Opinión sin datos;;The Death of Computational Linguistics as We Know It;Op-ed;0/10;Predicción sin base
+90;screening_titles_abstracts;Opinión sin datos;;Why Enterprise AI is Failing (And How Linguists Can Fix It);Article;2-oct;Argumento sin datos de soporte
+91;screening_titles_abstracts;Opinión sin datos;;The Linguistic Turn in AI: A Manifesto;Position Paper;1-oct;Documento posicional sin investigación
+92;screening_titles_abstracts;Contexto inaplicable;;Linguistic Variation in Small Rural Communities;Académico;1-oct;Sociolingüística rural, no IA empresarial
+93;screening_titles_abstracts;Contexto inaplicable;;Phonological Analysis of Endangered Languages;Académico;1-oct;Lingüística descriptiva de lenguas amenazadas
+94;screening_titles_abstracts;Contexto inaplicable;;Pragmatics and Discourse Analysis in Literary Criticism;Académico;1-oct;Crítica literaria, no IA
+95;screening_titles_abstracts;Contexto inaplicable;;Historical Development of Latin and Greek Grammar;Académico;1-oct;Lingüística histórica clásica
+96;screening_titles_abstracts;Contexto inaplicable;;Sign Language Linguistics and Cognitive Development;Académico;2-oct;Lingüística de lenguas de signos, sin PLN
+97;screening_titles_abstracts;Contexto inaplicable;;Linguistic Relativity and Language-Culture Interaction;Académico;1-oct;Psicolingüística teórica
+98;screening_titles_abstracts;Contexto inaplicable;;Acquisition of Language in Children: Developmental Stages;Académico;1-oct;Desarrollo lingüístico infantil
+99;screening_titles_abstracts;Contexto inaplicable;;Neurolinguistics and Brain Imaging Studies;Académico;2-oct;Neurociencia lingüística, no IA
+100;screening_titles_abstracts;Contexto inaplicable;;Orthography and Writing Systems Across Languages;Académico;1-oct;Sistemas de escritura, no IA empresarial
+101;screening_titles_abstracts;Contexto inaplicable;;Bilingualism and Cognitive Effects;Académico;1-oct;Psicolingüística del bilingüismo
+102;screening_titles_abstracts;Contexto inaplicable;;Language and Thought: Whorfian Hypotheses;Académico;0/10;Filosofía del lenguaje teórica
+103;screening_titles_abstracts;Contexto inaplicable;;Psycholinguistics of Speech Perception;Académico;2-oct;Psicología del lenguaje, no IA
+104;full_text;Datos no verificables/URL no permanente;;Reddit Thread: Computational Linguist Salaries Discussion;Reddit;4-oct;URL efímera, contenido puede eliminarse, sin permanencia
+105;full_text;Datos no verificables/URL no permanente;;LinkedIn Post: My Experience as a Computational Linguist;LinkedIn;3-oct;Perfil personal, sin acceso verificable permanente
+106;full_text;Datos no verificables/URL no permanente;;Medium Blog: NLP Market Predictions 2025;Medium;3-oct;Blog personal, sin institución verificable
+107;full_text;Datos no verificables/URL no permanente;;Slide Deck: Conference on Computational Linguistics;Presentation;3-oct;Sin DOI, repositorio temporal, URL no permanente
+108;full_text;Datos no verificables/URL no permanente;;WordPress Blog: Industry Insights on AI Careers;Blog;2-oct;Dominio personal, sin acreditación institucional
+109;full_text;Datos no verificables/URL no permanente;;Tweet/X Thread: Discussing NLP Skills in Tech;Social Media;2-oct;Contenido volátil, sin versión archivada verificable
+110;full_text;Datos no verificables/URL no permanente;;Company Whitepaper: Downloadable PDF (URL corta);Comercial;3-oct;Link corto sin metadata permanente
+111;full_text;Datos no verificables/URL no permanente;;Anonymous Survey Results on Computational Linguists;Encuesta;3-oct;Respondiente anónimo, imposible verificación
+112;full_text;Metodología opaca;;NLP Market Report 2025;Comercial;5-oct;No explica cómo se calculan proyecciones, cifras aparentemente sacadas de aire
+113;full_text;Metodología opaca;;Industry Analysis: Computational Linguist Demand;Comercial;4-oct;"Cita ""fuentes del sector"" sin identificar, metodología completamente opaca"
+114;full_text;Metodología opaca;;Survey on AI Skills: 5000 Respondents Worldwide;Comercial;3-oct;"Afirma ""basado en 5000 encuestas"" pero no describe muestra, sesgo geográfico desconocido"
+115;full_text;Metodología opaca;;Salary Analysis: Computational Linguists vs Data Scientists;Profesional;4-oct;Sin explicar cobertura geográfica o tamaño de muestra, o período temporal
+116;full_text;Metodología opaca;;Market Analysis Report;Comercial;3-oct;"Dice ""según nuestro análisis"" pero no detalla metodología"
+117;full_text;Metodología opaca;;Predictions on NLP Market Growth to 2030;Comercial;2-oct;Proyecciones sin modelo, sin justificación
+118;full_text;Falta de acreditación institucional;;AI Career Guide by Independent Consultant;Profesional;2-oct;Autor sin afiliación institucional verificable o track record
+119;full_text;Falta de acreditación institucional;;Technology Institute White Paper (Not Recognized);Comercial;2-oct;Institución no reconocida académicamente, presencia online mínima
+120;full_text;Falta de acreditación institucional;;Market Analysis from Small Consulting Firm;Comercial;2-oct;Empresa sin track record documentado, sin reputación establecida
+121;full_text;Falta de acreditación institucional;;Author Unknown: Analysis of NLP Employment Trends;Anónimo;2-oct;Autor completamente anónimo, imposible verificar credibilidad
+122;full_text;Falta de acreditación institucional;;Self-Published eBook on Computational Linguistics Careers;Autopublicado;1-oct;Sin peer review, sin institución respalda
+123;full_text;Falta de acreditación institucional;;Tech Blog by Freelancer: Market Predictions;Blog;1-oct;Blogger sin afiliación verificable ni track record
+124;full_text;Falta de acreditación institucional;;Startup's Internal Report (No External Validation);Comercial;2-oct;Reporte interno de startup sin validación externa o peer review
+125;full_text;Especulación sin base empírica;;The AI Market Will Reach $1 Trillion by 2025;Comercial;1-oct;Proyección extrema 4x superior a otras fuentes, sin modelo que la justifique
+126;full_text;Especulación sin base empírica;;Computational Linguists Will Be Most Demanded Profession;Predicción;1-oct;Afirmación sin data, extrapolación irracional
+127;full_text;Especulación sin base empírica;;NLP Will Solve All Enterprise Data Problems by 2030;Predicción;0/10;Especulación futurista sin base
+128;full_text;Especulación sin base empírica;;Linguistic Expertise Will Become Completely Obsolete Within 5 Years;Predicción;0/10;Conclusión contraria sin evidencia
+129;full_text;Especulación sin base empírica;;All Companies Will Require Computational Linguists or Fail;Predicción;0/10;Generalización excesiva sin base empírica
