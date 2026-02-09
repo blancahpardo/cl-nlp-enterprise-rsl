@@ -1,4 +1,4 @@
-# Repositorio de respaldo — Revisión sistematizada (RSL) y manuscrito
+# Repositorio de respaldo — Revisión sistematizada (RSL)
 **Título del estudio/manuscrito:** *El lingüista computacional como perfil estratégico para el PLN empresarial*  
 **Versión del manuscrito:** Blanca Hernández Pardo_Comunicación2 (febrero 2026) - Pendiente de publicar en editorial tras congreso CIEI 2026 (https://ciei.es/)
 **Autor/a:** Dr.ª Blanca Hernández Pardo
