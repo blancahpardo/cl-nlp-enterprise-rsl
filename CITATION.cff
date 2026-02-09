@@ -2,33 +2,20 @@ cff-version: 1.2.0
 message: "If you use this repository, please cite it as below."
 
 title: "Repositorio de respaldo de la RSL: El lingüista computacional como perfil estratégico para el PLN empresarial"
-version: "1.0.0"
+version: "1.0.1"
 date-released: 2026-02-09
 
 authors:
   - family-names: "Hernández Pardo"
     given-names: "Blanca"
-    orcid: "[https://orcid.org/0000-0001-9005-7577]"
+    # orcid: "https://orcid.org/0000-0001-9005-7577"
 
 repository-code: "https://github.com/blancahpardo/cl-nlp-enterprise-rsl"
-
-keywords:
-  - computational linguistics
-  - natural language processing
-  - NLP
-  - enterprise AI
-  - employability
-  - systematic literature review
-  - PRISMA
-
 license: "CC-BY-4.0"
 
-abstract: >
-  This repository contains the full set of materials supporting a systematized
-  literature review on the role of the computational linguist as a strategic
-  profile in enterprise NLP. It includes the search strategy, PRISMA flow,
-  inclusion and exclusion records, data extraction matrices, evidence governance
-  documentation, and the final manuscript. The review integrates academic,
-  institutional, and professional sources and follows PRISMA and PRISMA-S
-  reporting principles, with explicit documentation of AI-assisted search
-  procedures.
+keywords:
+  - "computational linguistics"
+  - "natural language processing"
+  - "enterprise NLP"
+  - "systematized literature review"
+  - "PRISMA"
